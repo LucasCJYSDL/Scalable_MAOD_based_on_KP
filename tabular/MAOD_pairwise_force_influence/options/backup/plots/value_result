@@ -1,0 +1,12 @@
+(4 agent)	value		step
+multiple	0.8424		17.961
+single		0.4468		102.27
+no option	0.0		200.0	
+(6 agent)			
+multiple	0.7526		31.82
+single		0.0		200.0
+no option	0.0		200.0
+(8 agent)			
+multiple	0.4128		110.02
+single		0.0		200.0
+no option	0.0		200.0		

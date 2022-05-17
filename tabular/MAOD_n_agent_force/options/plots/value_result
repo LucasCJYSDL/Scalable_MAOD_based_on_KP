@@ -1,0 +1,19 @@
+(maze 4)			
+multiple	0.4817	74.60
+single		0.0	200.0
+no option	0.0	200.0
+
+(maze 3)			
+multiple	0.5242  67.17
+single		0.0     200.0
+no option	0.0	200.0		
+
+(room 4)			
+multiple	0.4681	77.29
+single		0.0	200.0
+no option	0.0	200.0	
+
+(room 3)			
+multiple	0.5416  63.42
+single		0.0 200.0
+no option	0.0	200.0
