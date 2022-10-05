@@ -1,4 +1,4 @@
-# NIPS_experiment
+# Scalable Multi-agent Covering Option Discovery based on Kronecker Graphs
 
 Please refer to the 'readme' file in each folder for further details:  
   
