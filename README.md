@@ -1,5 +1,7 @@
 # Scalable Multi-agent Covering Option Discovery based on Kronecker Graphs
 
+Codebase for my papers: Multi-agent Covering Option Discovery through Kronecker Product of Factor Graphs && Scalable Multi-agent Covering Option Discovery based on Kronecker Graphs
+
 The following parts are included:
 - Multi-agent maze tasks built with Mujoco as the benchmark for the continuous case.
 - Multi-agent grid-maze tasks as the benchmark for the tabular case.
