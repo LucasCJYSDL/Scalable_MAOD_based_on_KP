@@ -1,5 +1,20 @@
 # Scalable Multi-agent Covering Option Discovery based on Kronecker Graphs
 
+Please cite this paper:
+```bash
+@inproceedings{DBLP:conf/nips/ChenCLA22,
+  author       = {Jiayu Chen and
+                  Jingdi Chen and
+                  Tian Lan and
+                  Vaneet Aggarwal},
+  title        = {Scalable Multi-agent Covering Option Discovery based on Kronecker
+                  Graphs},
+  booktitle    = {NeurIPS},
+  year         = {2022},
+  url          = {http://papers.nips.cc/paper\_files/paper/2022/hash/c40d1e40dd121d0e7ba8e4ab65bca81b-Abstract-Conference.html}
+}
+```
+
 Codebase for my papers: Multi-agent Covering Option Discovery through Kronecker Product of Factor Graphs && Scalable Multi-agent Covering Option Discovery based on Kronecker Graphs
 
 The following parts are included:
